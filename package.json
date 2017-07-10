@@ -1,0 +1,29 @@
+{
+  "name": "boxconnectbyjules",
+  "version": "0.0.1",
+  "description": "connect to box",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianamariemorales/BoxConnect.git"
+  },
+  "keywords": [
+    "box",
+    "file",
+    "management",
+    "node",
+    "js"
+  ],
+  "author": "Juliana Marie Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianamariemorales/BoxConnect/issues"
+  },
+  "homepage": "https://github.com/julianamariemorales/BoxConnect#readme",
+  "dependencies": {
+    "box-node-sdk": "^1.6.0"
+  }
+}
